@@ -1,0 +1,33 @@
+<Platos>
+    <plato>
+        <nombre>Plato 1</nombre>
+        <valor>$ 10</valor>
+        <imagen>assets/uno.jpg</imagen>
+    </plato>  
+    <plato>
+        <nombre>Plato 2</nombre>
+        <valor>$ 8</valor>
+        <imagen>assets/dos.jpg</imagen>
+    </plato>  
+    <plato>
+        <nombre>Plato 3</nombre>
+        <valor>$ 7</valor>
+        <imagen>assets/tres.jpg</imagen>
+    </plato>    
+    <plato>
+        <nombre>Plato 4</nombre>
+        <valor>$ 4</valor>
+        <imagen>assets/cuatro.jpg</imagen>
+    </plato>  
+    <plato>
+        <nombre>Plato 5</nombre>
+        <valor>$ 5</valor>
+        <imagen>assets/cinco.jpg</imagen>
+    </plato>  
+    <plato>
+        <nombre>Plato 6</nombre>
+        <valor>$ 8</valor>
+        <imagen>assets/seis.jpg</imagen>
+    </plato>  
+</Platos>
+
